@@ -1,3 +1,11 @@
 today i build 1 bash script and python files.
 ./bashfilename.extension to run the file
 for python you run the python3 filename with extension
+
+your laptop > Git> GitHub repo > CI/CD / automation
+
+
+
+
+
+
